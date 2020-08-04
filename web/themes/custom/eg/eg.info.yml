@@ -1,0 +1,6 @@
+name: Elegant Gardens
+type: theme
+description: Fresh Garden theme
+core: 8.x
+base theme: classy
+screenshot: screenshot.png
