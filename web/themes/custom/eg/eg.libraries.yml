@@ -2,7 +2,7 @@ eg-css:
   version: 1.0
   css:
     base:
-      css/base/style.css: {}
+      css/base/style.css:  {}
     layout:
       css/layout/layout.css: {}
     component:
@@ -12,7 +12,7 @@ eg-css:
 
 quicksand:
   license:
-    name: SIL Open font license 1.1
+    name: SIL Open font License 1.1
     url: http://scripts.sil.org/scripts/page.php?site_id=nrsi$id=OFL
   css:
     theme:
