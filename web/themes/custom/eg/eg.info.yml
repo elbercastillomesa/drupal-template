@@ -4,3 +4,19 @@ description: Fresh Garden theme
 core: 8.x
 base theme: classy
 screenshot: screenshot.png
+
+libraries:
+  - eg/eg-css
+  - eg/quicksand
+  - core/normalize
+
+regions:
+  header: Header
+  highlighted: Highlighted
+  help: help
+  content: Content
+  sidebar_first: Left Sidebar
+  sidebar_second: Right Sidebar
+  front: Front page blocks
+  page_top: Page top
+  page_bottom: Page bottom
